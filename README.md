@@ -29,3 +29,13 @@ Here are some ideas to get you started:
 
 #### Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yanha94)](https://solved.ac/yanha94/)
+
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=yanh2&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/yanh2"
+  width="600"
+  height="300"
+/>
+</a>
+
